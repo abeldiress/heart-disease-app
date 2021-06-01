@@ -15,13 +15,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import firebase from 'firebase';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBBWbhF64yMvIe37PO8BwVfvrhwqOM6PYk",
-  authDomain: "heart-disease-project.firebaseapp.com",
-  projectId: "heart-disease-project",
-  storageBucket: "heart-disease-project.appspot.com",
-  messagingSenderId: "26359258609",
-  appId: "1:26359258609:web:8a49acb033b6ab4a277850",
-  measurementId: "G-XWZL8JR3LR"
+  // uhhhhhhhhhhhh
 };
 
 var firebaseApp;
